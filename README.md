@@ -20,4 +20,3 @@ https://github.com/user-attachments/assets/c2aee33a-01fc-46ca-8286-c2156111c7b7
 
 ```bash
 git clone https://github.com/VadaPavMan/Joker_Bot.git
-```
