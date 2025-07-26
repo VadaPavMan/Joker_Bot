@@ -5,7 +5,7 @@
 Joker Bot is a fun and interactive terminal-based joke-telling program powered by Python.
 It speaks jokes out loud using pyttsx3 and supports multiple languages, providing a cheerful experience through text-to-speech and colorful CLI menus.
 
-![exp](https://github.com/user-attachments/assets/c2aee33a-01fc-46ca-8286-c2156111c7b7)
+https://github.com/user-attachments/assets/c2aee33a-01fc-46ca-8286-c2156111c7b7
 
 **Built in just 45 minutes.**
 
